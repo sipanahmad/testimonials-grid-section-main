@@ -33,8 +33,8 @@ The Testimonials grid section challenge tasks participants with building a user 
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/the-four-card-feature-section-challenge-psmzd5-nSh)
-- Live Site URL: [Live Demo](https://four-card-feature-section-master-five-sepia.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-challenge-oO1TEB-lL3)
+- Live Site URL: [Live Demo](https://testimonials-grid-section-main-dun.vercel.app/)
 
 ## My process
 
